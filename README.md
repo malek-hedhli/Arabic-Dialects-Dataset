@@ -1,2 +1,10 @@
 # Arabic-Dialects-Dataset
-Tweets, posts and comments in Arabic in 5 Arabic dialects represent the following 4834 Tunisian 4834 MGH 4832 GLF 4832LEV 4830 EGY the Dataset has 2 columns "Sentence" and "Dialect"
+Arabic tweets, posts and comments in 5 Arabic dialects represent as follows :
+4834 Tunisian
+4834 MGH
+4832 GLF
+4832 LEV
+4830 EGY
+The dataset have 2 columns "Sentence" and "Dialect"
+
+
