@@ -13,10 +13,12 @@ These data are presented in these 2 .xlsx files the first "CleanedDataset.xlsx" 
 -Remove punctuation
 -Normalize
 -Remove repeating char
-- Stemming
+-Stemming
 -Replace @username with empty string
 -Remove Links
 -Balance dialect numbers
 -Tokenize the Sentences
+
+
 and the second "CleanedWithoutTokenizer.xlsx"
 contains the same cleaning and preprocessing procedure without removing stop words and without tokenize
